@@ -33,9 +33,12 @@ We are aware of the problem of borrowings: thee a lot of words which may be seen
 - Spacy for tokenizing and obtaining the lemma
 
 ## Installation
+
 All the imports are specified on the files.
-I provided a requirements.txt document with all the necessary intallations. 
-Run main.py. It uses the default corpus as data, but one can also five their own coprus. 
+
+I provided a requirements.txt document with all the necessary intallations.
+
+Run main.py. It uses the default corpus as data, but one can also put in their own corpus, as a Argument parser is provided with this precise parameter. 
 
 ## Usage
 The output looks like this:
