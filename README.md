@@ -1,7 +1,6 @@
 # Etymology statistics in Romanian
 Gitlab repository @: https://gitlab.uzh.ch/mirela-vasilica.ratoi/etymology-statistics-in-romanian 
 
-## Etymology statistics in Romanian
 
 
 ## Description
@@ -59,12 +58,13 @@ If you have any questions, you cant contact me at mirela-vasilica.ratoi@uzh.ch
 MIT License
 
 ## Project status
-The project is finalized, but one could always add more words on the lists of words of different origins, as this are far of comprehensive. 
+The project is finalized, but one could always add more words on the lists of words of different origins, as these are still faraway from complete. 
 
 ## References
 1. Miller-Broomfield, Clara: “Romanian: The forgotten Romance language”. Dialogue: The
 UNRAVEL Blog. February 12,2015. https://unravellingmag.com/articles/romanian-theforgotten-
 romance-language/ Issue 2. Language Profiles.
+
 2. Languagevolcano: “Closest language to LAtin-Romanian?”. Language Volcano Blog.
 https://languagevolcano.
 
