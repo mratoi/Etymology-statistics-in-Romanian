@@ -16,7 +16,7 @@ Many who are unfamiliar with the language assume that it must be Slavic in natur
 
 Our hypothesis is that, despite its many unique aspects, Romanian is still a Romance languageat its core and the percentage of latin vocabulary in any corus will show that. 
 
-#Literature review:
+# Literature review:
 
 The numbers are not always consistent, but the majority of the Romanian language history textbooks agree that the vocabulary is up to 60-70% of Latin origin. Somewhere around 15 percent of the lexical items are of Slavic origin, but there are also words of Dacian, Turkish or even German and other origins.
 
