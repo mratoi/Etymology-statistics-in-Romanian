@@ -6,7 +6,7 @@ Gitlab repository @: https://gitlab.uzh.ch/mirela-vasilica.ratoi/etymology-stati
 
 ## Description
 
-The intention of this project is to let the user get some statistics about hoch percentage of their Romanian corpus is of Latin, Slavic, Dacian, greek,Türkish odr other different heritage. 
+The intention of this project is to let the user get some statistics about hoch percentage of their Romanian corpus is of Latin, Slavic, Dacian, greek,Türkish odr other different heritage. The program goes through a corpus lemmatized with the SPACY Romanian model (not the best, but there are not many resources for working with Romanian). It compares every lemma against the  words of different heritages and appends separate lists for each of them. The remaining words are appended to the list of words of Latin origin. We admit that this is not the most statiscally accurate method. The programm puts out statitics in procents retrieved through computing the lenght of the lists. 
 
 # Idea
 
@@ -54,8 +54,6 @@ The output looks like this:
 ## Support
 If you have any questions, you cant contact me at mirela-vasilica.ratoi@uzh.ch
 
-## Acknowledgment
-Show your appreciation to those who have contributed to the project.
 
 ## License
 MIT License
@@ -69,4 +67,9 @@ UNRAVEL Blog. February 12,2015. https://unravellingmag.com/articles/romanian-the
 romance-language/ Issue 2. Language Profiles.
 2. Languagevolcano: “Closest language to LAtin-Romanian?”. Language Volcano Blog.
 https://languagevolcano.
+
+Resources used for the lists of words of different origin:
+- https://romania.fandom.com/wiki/Categorie:Liste_de_cuvinte 
+- https://levantin54.wordpress.com/2013/09/12/o-sama-de-cuvinte-romanesti-de-origine-slava/
+
 
