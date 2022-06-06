@@ -6,6 +6,7 @@
 
 from typing import List, Tuple
 
+
 def get_etymology(lemma_list: List)->Tuple:
     """
     Create lists of words from corpus by heritage::

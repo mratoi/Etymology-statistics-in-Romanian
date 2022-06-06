@@ -16,7 +16,5 @@ class Test_Methd(TestCase):
         self.assertEqual(result, target)
 
 
-
-
 if __name__ == '__main__':
     main()

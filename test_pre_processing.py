@@ -14,7 +14,6 @@ class Test_Meth(TestCase):
         self.assertIsInstance(result, list, "Required type of output is list")
         self.assertEqual(result, target)
 
-       
 
 if __name__ == '__main__':
     main()
