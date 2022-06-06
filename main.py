@@ -29,12 +29,13 @@ def main():
     procentage_turkish = round(len(var_lists[4]) * 100 / len(lemma_list),2)
     procentage_divers = round(len(var_lists[5]) * 100 / len(lemma_list),2)
 
-    print(f'The percentage of words of Latin heritage in the corpus is: {procentage_latin} %',"\n",
-    f'The percentage of words of Slavic heritage in the corpus is: {procentage_slavic} %', "\n",
-    f'The percentage of words of Dacian heritage in the corpus is: {procentage_dacian} %', "\n",
-    f'The percentage of words of Greek heritage in the corpus is: {procentage_greek} %', "\n",
-    f'The percentage of words of Turkish heritage in the corpus is: {procentage_turkish} %', "\n",
-    f'The percentage of words of other heritage in the corpus is: {procentage_divers} %')
+    print("\n", f'In the given corpus: ',"\n",
+          f'The percentage of words of Latin heritage in the corpus is: {procentage_latin} %',"\n",
+    f'-the percentage of words of Slavic heritage in the corpus is: {procentage_slavic} %', "\n",
+    f'-the percentage of words of Dacian heritage in the corpus is: {procentage_dacian} %', "\n",
+    f'-the percentage of words of Greek heritage in the corpus is: {procentage_greek} %', "\n",
+    f'-the percentage of words of Turkish heritage in the corpus is: {procentage_turkish} %', "\n",
+    f'-the percentage of words of other heritage in the corpus is: {procentage_divers} %')
 
 
 
